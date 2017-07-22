@@ -1,0 +1,7 @@
+cd TensorflowTraining
+git push origin master
+git status
+git add -i
+git commit -m "finish Linear Regression"
+git push -u origin master
+
